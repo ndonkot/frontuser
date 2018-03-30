@@ -1,5 +1,5 @@
 target/
-!.mvn/wrapper/maven-wrapper.jar.metadata/.metadata/*.sts4-cache/.sts4-cache/*.vscode/ 
+!.mvn/wrapper/maven-wrapper.jar .metadata/ .metadata/* .sts4-cache/ .sts4-cache/* .vscode 
 
 ### STS ###
 .apt_generated
