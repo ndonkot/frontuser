@@ -1,5 +1,5 @@
 target/
-!.mvn/wrapper/maven-wrapper.jar .metadata/ .metadata/* .sts4-cache/ .sts4-cache/* .vscode 
+!.mvn/wrapper/maven-wrapper.jar 
 
 ### STS ###
 .apt_generated
@@ -21,4 +21,4 @@ build/
 nbbuild/
 dist/
 nbdist/
-.nb-gradle/
+.nb-gradle/### eclipse ###.metadata/ .metadata/* .sts4-cache/ .sts4-cache/* .vscode
