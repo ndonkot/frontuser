@@ -21,4 +21,4 @@ build/
 nbbuild/
 dist/
 nbdist/
-.nb-gradle/### eclipse ###.metadata/ .metadata/* .sts4-cache/ .sts4-cache/* .vscode
+.nb-gradle/
