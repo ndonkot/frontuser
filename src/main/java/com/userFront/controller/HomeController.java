@@ -73,7 +73,7 @@ public class HomeController
 
 	            userService.createUser(user, userRoles);
 
-	            return "redirect:/";
+	            return "redirect:/index";
 	        }
 	}
 	@RequestMapping("/userFront")
